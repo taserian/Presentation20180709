@@ -2,8 +2,8 @@
 
 References:
 
-    Python4Maths: https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master
+Python4Maths: https://gitlab.erc.monash.edu.au/andrease/Python4Maths/tree/master
 
-    Pytudes from Peter Norvig: https://github.com/norvig/pytudes
+Pytudes from Peter Norvig: https://github.com/norvig/pytudes
 
 
