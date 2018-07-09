@@ -1,0 +1,7 @@
+2018-07-09 10:49:36 - using System;
+2018-07-09 10:49:36 - using System.Collections.Generic;
+2018-07-09 10:49:36 - using System.Linq;
+2018-07-09 10:49:36 - using System.Text;
+2018-07-09 10:49:36 - using System.Threading.Tasks;
+2018-07-09 10:49:36 - using ICSharp.Kernel;
+2018-07-09 10:49:36 - // Adding default usings. This file is included for each notebook when it starts.
